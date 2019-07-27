@@ -1,5 +1,12 @@
 {
   "name": "vue-cli-plugin-dynamic-router",
   "version": "0.0.1",
-  "description": "vue cli plugin to add dynamic router"
+  "description": "vue cli plugin to add dynamic router",
+  {
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vrblank/vue-cli-plugin-dynamic-router.git"
+    },
+    "homepage": "https://github.com/vrblank/vue-cli-plugin-dynamic-router#readme"
+  }
 }
